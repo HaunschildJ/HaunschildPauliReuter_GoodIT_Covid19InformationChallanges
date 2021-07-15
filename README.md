@@ -5,4 +5,5 @@ Haunschild, Pauli & Reuter. Citizens' Perceived Information Responsibilities and
 
 It includes:
 
-    the appendix [LINK]
+[The Appendix](https://github.com/HaunschildJ/HaunschildPauliReuter_GoodIT_Covid19InformationChallanges/files/6824713/GoodIT2021_Covid_Agency_APPENDIX.pdf)
+
